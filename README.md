@@ -24,4 +24,4 @@ I took the following steps to prepare the data:
 - Splitting the data into training and testing sets
 - Exporting the training and testing sets
 
-The file that performs the data preparation is data_preparation_education.ipynb. The clean data files are train.csv and test.csv.
+The file that performs the data preparation is data_preparation_education.ipynb. The clean data files are train_data.csv and test_data.csv.
